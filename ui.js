@@ -1,1 +1,2 @@
-console.log("iMPLEMETED UI FETURE")
+// ui.js
+console.log("Updated UI Feature");
